@@ -9,51 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Farzanegan 2 Highschool
+  - Diploma in Mathematics and Physics Discipline - 2014
+  - National Organization for Development of Exceptional Talents (NODET), GPA: 18.7/20
+- Amirkabir University of Technology University (Tehran Polytechnic)
+  - B.S. in Computer Engineering - 2024 (expected)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Work experience
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Fall 2022: Teacher Assistant - Computer Networks
+
+  - Amirkabir University of Technology
+  - Supervisor: Professor Sabaei
+
+- Fall 2022: Teacher Assistant - Microprocessor and Assembly language
+
+  - Amirkabir University of Technology
+  - Supervisor: Professor Farbeh
+
+- Fall 2022: Teacher Assistant - Advanced Programming
+
+  - Amirkabir University of Technology
+  - Supervisor: Professor Rostayi
+
+- Summer 2022 : Research Assistant
+  - IPM IPM Institute for Research in Fundamental Sciences
+  - Duties included: ML and DL student
+
+# Skills
+
+- Programming Languages:
+  - C/C++
+  - Java, JavaFx
+  - VHDL, Verilog
+  - Python
+  - Assembly
+  - HTML, CSS, Javascript
+  - SQL
+- Python Libraries:
+  - NumPy
+  - Matplotlib
+  - Seaborn
+  - Pandas
+  - SkLearn
+
+[My CV](https://github.com/Precioux/Precioux.github.io/raw/master/files/Samin_Mahdipour.pdf)
