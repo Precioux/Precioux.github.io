@@ -79,13 +79,13 @@ analytics:
 # Site Author
 author:
   name: "Samin Mahdipour"
-  avatar: "profile.PNG"
+  avatar: "profile.png"
   bio: "Computer Engineering Student at Amirkabir University of Technology (Tehran Polytechnic)"
   location: "Tehran, Iran"
   email: "uni.mahdipour@gmail.com"
-  facebook: #https://www.facebook.com/samin.mahdipour
+  facebook: "samin.mahdipour"
   github: "Precioux"
-  linkedin: #https://www.linkedin.com/in/samin-mahdipour-8919a6133/
+  linkedin: "samin-mahdipour"
 
 # Reading Files
 include:
