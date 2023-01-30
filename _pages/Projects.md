@@ -18,8 +18,8 @@ redirect_from:
 
   In this project, a database is designed for a vehicle factory.
 
-      - Principles of Database Design Final Project - Under supervision of Dr. Khoshkbarchi
-      - Amirkabir University of Technology - Fall 2022
+  - Principles of Database Design Final Project - Under supervision of Dr. Khoshkbarchi
+  - Amirkabir University of Technology - Fall 2022
 
 - # [**Machine Learning Projects**](https://github.com/Precioux/Machine-Learning-Projects)
 

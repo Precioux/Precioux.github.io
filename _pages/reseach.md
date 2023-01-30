@@ -12,5 +12,4 @@ Based on an intership guided and instructed by Computer Science team of IPM Inst
 
 #### Summer 2022
 
-
-<img src="Roadmap.PNG">
+<img src=https://github.com/Precioux/Precioux.github.io/blob/master/images/Roadmap.png>
