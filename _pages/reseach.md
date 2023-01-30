@@ -13,3 +13,5 @@ Based on an intership guided and instructed by Computer Science team of IPM Inst
 #### Summer 2022
 
 <img src=https://github.com/Precioux/Precioux.github.io/blob/master/images/Roadmap.png>
+
+You can access full documenation [here](https://github.com/Precioux/Machine-Learning-Course)!
