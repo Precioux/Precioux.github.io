@@ -8,7 +8,7 @@ date: 2022-10-01
 location: "Terhan, Iran"
 ---
 
-Instructors: Dr. Rostayi
+Instructor: Dr. Rostayi
 
 _Fall 2022_
 
