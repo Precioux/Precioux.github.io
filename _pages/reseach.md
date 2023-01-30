@@ -7,8 +7,10 @@ author_profile: true
 
 ## Research Intern at [IPM Institute for Research in Fundamental Sciences](http://www.ipm.ac.ir/)
 
-Research on AI-based financial market analysis approaches, focusing on testing available DL architectures and for each analytic model construct a new hybrid model that aggregates ports of old models.
+This internship includes a complete course about machine learning with a road map guiding how to take first steps in order to become a data scientist!
+Based on an intership guided and instructed by Computer Science team of IPM Institute For Research In Fundamental Sciences.
 
-Under the Supervision of [Dr. Dara Rahmati](https://scholar.google.com/citations?user=xwJgOl0AAAAJ&hl=en) and [Dr. Saeid Gorgin](https://scholar.google.com/citations?user=SbgT7HcAAAAJ&hl=en) at [Department of High Performance Computing](https://hpc.ipm.ac.ir/)
+#### Summer 2022
 
-_Jul. 2021 – Oct. 2021_
+
+<img src="Roadmap.PNG">
