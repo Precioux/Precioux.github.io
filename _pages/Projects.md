@@ -75,12 +75,12 @@ redirect_from:
 
   #### Instructor:
 
-        [Dr.Seyyed Ahmad Javadi](https://github.com/sajavadi) <br />
+        [Dr.Seyyed Ahmad Javadi](https://github.com/sajavadi)
 
   #### Implemented by:
 
-        - [Hosna Oyarhosseini](https://github.com/hosnahoseini) <br />
-        - [Samin Mahdipour](https://github.com/precioux) <br />
+        - [Hosna Oyarhosseini](https://github.com/hosnahoseini)
+        - [Samin Mahdipour](https://github.com/precioux)
 
 #### Spring 2022 - Amirkabir University of Technology
 
@@ -97,12 +97,12 @@ redirect_from:
       - Amirkabir University Of Technology
       - Spring 2022
 
-- # [**Twitter**](https://github.com/Precioux/Twitter-Project) <br>
+- # [**Twitter**](https://github.com/Precioux/Twitter-Project)
 
 This project is a sample version of twitter which has abilities of creating accounts, following other accounts, switching accounts and activities like comment, like , retweet and etc. Project’s GUI has been created with JavaFX in both Light and Dark Mode.
 
     - Advanced Programming Final Project
-    - Under supervision of [Dr.Ehsan Edalat](https://github.com/ehsanedalat) <br />
+    - Under supervision of [Dr.Ehsan Edalat](https://github.com/ehsanedalat)
     - Fall 2021
 
 - # [**Health Checking System**](https://github.com/Precioux/Health-Checking-System)
@@ -111,8 +111,8 @@ This project is a sample version of twitter which has abilities of creating acco
 
       - Logic Circuits Course Final Project - Under supervision of Dr. Sedighi
       - Impelemented by :
-      - [Amirhossein Poolad](https://github.com/AmirhosseinPoolad) <br />
-      - [Samin Mahdipour](https://github.com/Precioux) <br />
+      - [Amirhossein Poolad](https://github.com/AmirhosseinPoolad)
+      - [Samin Mahdipour](https://github.com/Precioux)
 
       - Amirkabir University of Technology - Spring 2021
 
@@ -124,4 +124,4 @@ HOW TO PLAY:
 Each player endorses one role: Sherlock or Jack. Sherlock's goal is to clear every other investigator until there is only one left: the one Jack is impersonating. In order to achieve this, he will need to have line of sight over his fellow detectives; each night Jack will have to tell if he is currently visible or not, allowing Sherlock to eliminate suspects. On the opposing side, Jack's goal is only to delay the investigation until dawn, when he can escape. Each night, both players will be able to reshape the board in order to shed a dim light on the streets of the city, or to remain hidden in the shadows...
 
 Fundamentals of Programming - C language
-Undersupervision of [Dr.Alvani]<https://github.com/1995parham> <br />
+Undersupervision of [Dr.Alvani](https://github.com/1995parham)
