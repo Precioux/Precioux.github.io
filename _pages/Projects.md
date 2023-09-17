@@ -7,8 +7,6 @@ redirect_from:
   - /projects
 ---
 
-# Projects
-
 ## Summer 2024
 
 - **Chatbot Dialogue State Tracking (Bachelor Thesis)**
@@ -22,22 +20,22 @@ redirect_from:
 ## Spring 2023
 
 - **Coin Price Monitoring Project**
-  This project showcases a cloud computing course final project, creating a cryptocurrency price monitoring app with two services, ”bepa” and ”peyk.” The project focuses on Docker, and Kubernetes deployment, and offers optional Docker Compose support. (code)
+  This project showcases a cloud computing course final project, creating a cryptocurrency price monitoring app with two services, ”bepa” and ”peyk.” The project focuses on Docker, and Kubernetes deployment, and offers optional Docker Compose support. [code](https://github.com/Precioux/Coin-Price-Monitoring)
 
 - **Job Execution Service**
-  This project involves implementing an execution service to gain proficiency in cloud services. Users can upload files with Python, C, C++, Java, or other code for execution, with results delivered via email. (code)
+  This project involves implementing an execution service to gain proficiency in cloud services. Users can upload files with Python, C, C++, Java, or other code for execution, with results delivered via email.[code](https://github.com/Precioux/Cloud-Computing-Projects/tree/master/Project1)
 
 - **Docker and Kubernetes Deployment**
-  This project focuses on Docker and Kubernetes deployment, aiming to create a simple project and deploy it on a Kubernetes server. (code)
+  This project focuses on Docker and Kubernetes deployment, aiming to create a simple project and deploy it on a Kubernetes server. [code](https://github.com/Precioux/Cloud-Computing-Projects/tree/master/Project2)
 
 - **MapReduce on Hadoop Cluster**
-  The goal of this project is to execute MapReduce on a Hadoop cluster. (code)
+  The goal of this project is to execute MapReduce on a Hadoop cluster. [code](https://github.com/Precioux/Cloud-Computing-Projects/tree/master/Project3)
 
 - **Neural Network Implementation**
-  A neural network is implemented from scratch, incorporating various layers such as Fully Connected (FC), Conv2D, and Max Pooling. The implementation includes popular optimizers like Adam and Gradient Descent and loss functions including Binary Cross Entropy and Mean Squared Error. Different activation functions such as Sigmoid, ReLU, and Linear are also implemented. (code)
+  A neural network is implemented from scratch, incorporating various layers such as Fully Connected (FC), Conv2D, and Max Pooling. The implementation includes popular optimizers like Adam and Gradient Descent and loss functions including Binary Cross Entropy and Mean Squared Error. Different activation functions such as Sigmoid, ReLU, and Linear are also implemented. [code](https://github.com/Precioux/Computational-Intelligence-Projects/tree/master/NeuralNetworks)
 
 - **Fuzzy Car Controller**
-  This project focuses on implementing a fuzzy car controller using charts. (code)
+  This project focuses on implementing a fuzzy car controller using charts.
 
 - **Super Mario Game**
   In this project, a genetic algorithm is implemented to excel in the Super Mario game by evolving an optimal ”goal chromosome” strategy. (code)
@@ -68,7 +66,7 @@ redirect_from:
 - **Github User Finder**
   This project is a simple website that tries to show a user’s data after getting his/her Git Id. (code)
 
-## Summer 2022 (code)
+## Summer 2022
 
 ### Deep Learning
 
@@ -100,7 +98,7 @@ redirect_from:
 - **Online Retail**
   The project aimed to achieve optimal clustering of U.S. housing data using k-means, DBScan, and Mean Shift algorithms.
 
-## Spring 2022 (code)
+## Spring 2022
 
 - **Lights Out Game Cheater**
   This project finds a cheat sheet for the Lights Out game based on linear algebra methods.
@@ -120,12 +118,12 @@ redirect_from:
 - **Message Broker**
   This project involves developing a Python-based message broker that acts as an intermediary, translating messages from the sender’s formal messaging protocol to TCP, and facilitating communication between different systems. (code)
 
-## Fall 2021 (code)
+## Fall 2021
 
 - **Twitter**
   This project is a JavaFX-based sample version of Twitter, featuring account creation, following functionality, account switching, and various social activities like commenting, liking, and retweeting, available in both Light and Dark Mode GUIs.
 
-## Spring 2021 (code)
+## Spring 2021
 
 - **Health Checking System**
   In this project, a health diagnosis system was designed using logic circuits course knowledge in Verilog.
