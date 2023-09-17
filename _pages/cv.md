@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can access [My CV](https://github.com/Precioux/Precioux.github.io/raw/master/files/Samin_Mahdipour.pdf) here!
+You can access [My CV](https://github.com/Precioux/Precioux.github.io/raw/master/files/Samin-CV.pdf) here!
