@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,22 +9,29 @@ redirect_from:
 ---
 
 <section id="about">
-  <h2>About</h2>
+  <h2>About Me</h2>
+  
   <p>
-    A graduate of Computer Engineering from Amirkabir University of Technology, specializing in artificial intelligence (AI) with a deep focus on foundation models, large language models (LLMs), and natural language processing (NLP). With hands-on experience in developing conversational AI systems and designing dialogue state tracking using models like BERT, RoBERTa, T5, BLOOM, and GPT, the work focuses on advancing AI-driven technologies to create smarter, more efficient systems.
+    I am a <strong>graduate of Computer Engineering</strong> from Amirkabir University of Technology, specializing in <strong>artificial intelligence (AI)</strong>. My focus is on <strong>foundation models</strong>, <strong>large language models (LLMs)</strong>, and <strong>natural language processing (NLP)</strong>.
   </p>
-
-  <h3>Current research interests include:</h3>
-  <ul>
-    <li>AI applications in <strong>neuroscience</strong> and <strong>cognitive science</strong></li>
-    <li><strong>AI in healthcare</strong> and medical innovation</li>
-    <li><strong>Medical and brain imaging</strong> powered by AI</li>
-    <li><strong>Deep learning</strong> and <strong>reinforcement learning</strong></li>
-    <li><strong>Generative AI</strong>, particularly multimodal models</li>
-    <li>Pushing the boundaries of <strong>foundation models</strong> and <strong>LLMs</strong></li>
-  </ul>
-
+  
   <p>
-    By combining expertise across these areas, the goal is to contribute to the cutting edge of AI research and real-world applications.
+    I have extensive experience in developing <strong>conversational AI systems</strong> and implementing <strong>dialogue state tracking</strong> using advanced models such as BERT, RoBERTa, T5, BLOOM, and GPT. My work aims to push the boundaries of AI technology by building smarter and more efficient systems that solve real-world problems.
+  </p>
+  
+  <div class="research-interests">
+    <h3>Research Interests</h3>
+    <ul>
+      <li><strong>AI in Neuroscience</strong> and <strong>Cognitive Science</strong></li>
+      <li><strong>AI in Healthcare</strong> and Medical Innovation</li>
+      <li>AI for <strong>Medical and Brain Imaging</strong></li>
+      <li><strong>Deep Learning</strong> and <strong>Reinforcement Learning</strong></li>
+      <li><strong>Generative AI</strong> with a focus on multimodal models</li>
+      <li>Advancing <strong>Foundation Models</strong> and <strong>LLMs</strong></li>
+    </ul>
+  </div>
+  
+  <p>
+    With a commitment to leveraging AI across these domains, I aim to contribute to cutting-edge research and technological advancements.
   </p>
 </section>
