@@ -9,13 +9,51 @@ redirect_from:
 
 ## Summer 2024
 
-- **Chatbot Dialogue State Tracking (Bachelor Thesis)**
-  Proficient in Chatbot Dialogue State Tracking, a crucial aspect of chatbot development involving real-time user conversation monitoring, intent recognition, and context management for enhanced conversational AI interactions.
+- **Parkinson Detection From Voice Data**
+  This project involves using deep learning techniques to detect  Parkinson’s Disease from voice patterns. 
+
+- **Cancer Image Detection**
+  This project involves using deep learning and computer vision techniques to develop an algorithm to identify metastatic cancer in small image patches obtained from larger digital pathology scans.
+  [certificate](https://courses.cognitiveclass.ai/certificates/eab14a5f70ef448386961ff1e2239338) - [code](https://github.com/Precioux/Cancer-Image-Detection)
+
+- **Brain Tumor Detection**
+  This project detects brain tumors using machine learning techniques. The project involves preprocessing medical images, training a model, and evaluating its performance on detecting tumors.[code](https://github.com/Precioux/Brain-Tumor-Detection)
+
+- **Counseler Chatbot**
+  This chatbot is designed to interact with users’ mental health issues and provide responses based on predefined conversational intents and information retrieval methods. 
+.[code](https://github.com/Precioux/Counseler-Chatbot)
+
+- **Designing and Implementing Dialogue State Tracking in Chatbot Development (Bachelor Thesis)**
+  Designed a dialogue state tracker for an open-domain chatbot using fine-tuned BERT and RoBERTa models combined with supervised machine learning approaches.[code](https://github.com/Precioux/Eunoia)
+  
+
+## Fall 2023
+
+-**Introduction to Python Libraries**
+  Explored the functionality and usage of common Python libraries for data mining, focusing on improving preprocessing steps with speed and accuracy.[code](https://github.com/Precioux/Data-Mining)
+
+-**EDA and Visualization**
+  Conducted statistical analysis and visualizations to explore and classify heart attack occurrences in a biological dataset.[code](https://github.com/Precioux/Data-Mining)
+
+-**Data Cleaning and Feature Engineering**
+  Applied feature engineering techniques like selection, reduction, and extraction to enhance model performance on linear regression, decision tree, and random forest algorithms.[code](https://github.com/Precioux/Data-Mining)
+
+-**Frequency Pattern Detection**
+  Compared Apriori and FP-Growth algorithms, showing FP-Growth’s superior efficiency in detecting patterns in large datasets.[code](https://github.com/Precioux/Data-Mining)
+
+-**Advanced Methods in Classification**
+  Utilized algorithms like Random Forest, SVM, and Naive Bayes to classify gas sensor data, employing model stacking and hyperparameter sensitivity analysis.[code](https://github.com/Precioux/Data-Mining)
+
+-**Advanced Methods in Clustering** 
+  Performed cluster analysis using KMeans, Agglomerative Clustering, and DBSCAN, with PCA and t-SNE used for dimensionality reduction and visualization.[code](https://github.com/Precioux/Data-Mining)
+
+-**Identifying Data Outliers and Anomalies**
+ Implemented techniques such as One-Class SVM and Local Outlier Factor for anomaly detection, applying data balancing methods and LSTM for temporal pattern recognition.[code](https://github.com/Precioux/Data-Mining)
 
 ## Summer 2023
 
 - **Chit-Chat Conversational System**
-  Developed a kernel module to serve as The project’s objective is to enhance chit-chat systems for customer interactions through advanced dataset collection methods like Multi Wizard-Of-Oz (MultiWOZ), ultimately improving chatbot performance.
+  Developed an open-domain chitchat system by fine-tuning BERT and RoBERTa models for intent detection and slot filling, and leveraging T5 and BLOOM models for answer generation.[code](https://github.com/Precioux/NLU)
 
 ## Spring 2023
 
@@ -28,8 +66,8 @@ redirect_from:
 - **Docker and Kubernetes Deployment**
   This project focuses on Docker and Kubernetes deployment, aiming to create a simple project and deploy it on a Kubernetes server. [code](https://github.com/Precioux/Cloud-Computing-Projects/tree/master/Project2)
 
-- **MapReduce on Hadoop Cluster**
-  The goal of this project is to execute MapReduce on a Hadoop cluster. [code](https://github.com/Precioux/Cloud-Computing-Projects/tree/master/Project3)
+- **Machine Learning using Map reduce**
+    Machine Learning using Map reduce - Spring 2023: The goal of this project is to execute big data ML projects using map reduce on a Hadoop cluster. [code](https://github.com/Precioux/Cloud-Computing-Projects/tree/master/Project3)
 
 - **Neural Network Implementation**
   A neural network is implemented from scratch, incorporating various layers such as Fully Connected (FC), Conv2D, and Max Pooling. The implementation includes popular optimizers like Adam and Gradient Descent and loss functions including Binary Cross Entropy and Mean Squared Error. Different activation functions such as Sigmoid, ReLU, and Linear are also implemented. [code](https://github.com/Precioux/Computational-Intelligence-Projects/tree/master/NeuralNetworks)
