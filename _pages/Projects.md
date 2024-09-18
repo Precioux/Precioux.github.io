@@ -10,7 +10,7 @@ redirect_from:
 ## Summer 2024
 
 - **Parkinson Detection From Voice Data**
-  This project involves using deep learning techniques to detect  Parkinson’s Disease from voice patterns. 
+  This project involves using deep learning techniques to detect  Parkinson’s Disease from voice patterns.[code](https://github.com/Precioux/Parkinson-Detection-From-Voice-Data)
 
 - **Cancer Image Detection**
   This project involves using deep learning and computer vision techniques to develop an algorithm to identify metastatic cancer in small image patches obtained from larger digital pathology scans.
