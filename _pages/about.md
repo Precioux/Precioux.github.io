@@ -8,15 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-## Hi Everyone! This is Samin!
+<section id="about">
+  <h2>About</h2>
+  <p>
+    A graduate of Computer Engineering from Amirkabir University of Technology, specializing in artificial intelligence (AI) with a deep focus on foundation models, large language models (LLMs), and natural language processing (NLP). With hands-on experience in developing conversational AI systems and designing dialogue state tracking using models like BERT, RoBERTa, T5, BLOOM, and GPT, the work focuses on advancing AI-driven technologies to create smarter, more efficient systems.
+  </p>
 
-Welcome to my website! I'm a Computer Engineering student at Amirkabir University of Technology, based in Tehran. I'm passionate about artificial intelligence and its applications in various fields like neuroscience, cognitive science, psychology, and philosophy. I'm also intrigued by advanced materials and chemistry.
+  <h3>Current research interests include:</h3>
+  <ul>
+    <li>AI applications in <strong>neuroscience</strong> and <strong>cognitive science</strong></li>
+    <li><strong>AI in healthcare</strong> and medical innovation</li>
+    <li><strong>Medical and brain imaging</strong> powered by AI</li>
+    <li><strong>Deep learning</strong> and <strong>reinforcement learning</strong></li>
+    <li><strong>Generative AI</strong>, particularly multimodal models</li>
+    <li>Pushing the boundaries of <strong>foundation models</strong> and <strong>LLMs</strong></li>
+  </ul>
 
-Currently, I'm working on an exciting project for my thesis: developing a Persian chatbot. It's an incredible journey where I'm exploring the depths of Natural Language Processing and machine learning algorithms to create an intelligent and interactive chatbot that can communicate in Persian.
-
-When I'm not working on my thesis, you'll find me immersed in my hobbies. I absolutely love reading books, capturing moments through photography, watching movies, and meeting new people! These activities bring me joy and help me unwind.
-
-Through this website, I aim to share my AI journey, discoveries, and insights with you. Join me as we delve into the fascinating world of AI, chatbot development, and the wonders of Persian language processing.
-
-Thanks for visiting, and I'm thrilled to connect with you!
-
+  <p>
+    By combining expertise across these areas, the goal is to contribute to the cutting edge of AI research and real-world applications.
+  </p>
+</section>
