@@ -24,6 +24,6 @@ redirect_from:
   </ul>
 
   <p>
-    By combining expertise across these areas, the goal is to contribute to the cutting edge of AI research and real-world applications.
+    Feel free to reach out if you'd like to connect or discuss AI, research, or any related projects—I'm always open to new ideas and collaborations!
   </p>
 </section>
