@@ -9,5 +9,11 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Honors"
+    url: /honors/
+
+  - title: "Certificates"
+    url: /certificates/
+
   - title: "CV"
     url: /cv/
