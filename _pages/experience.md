@@ -4,7 +4,7 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
-  <hr> <!-- This will create a line -->
+<hr> <!-- This will create a line -->
 - ### Research Assistant — Natural Language Processing Lab at AUT
   *July 2023 – Present*  
   - Worked under the supervision of Dr. Saeedeh Momtazi.
@@ -19,8 +19,5 @@ author_profile: true
 
 - ### Teaching Assistant — Department of Computer Engineering at AUT
   *August 2021 – Present*  
-  - Courses supervised: Cloud Computing, Applied Linear Algebra, Advanced Programming, Computer Networks, Microprocessors, and Assembly Language.
+  - Courses supervised: **Cloud Computing**, **Applied Linear Algebra**, **Advanced Programming**, **Computer Networks**, **Microprocessors**, and **Assembly Language**.
   - Created course content, designed exams, and assisted in grading assignments for multiple courses.
-
----
-
