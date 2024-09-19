@@ -10,7 +10,7 @@ redirect_from:
 
 <section id="about">
   <hr> <!-- This will create a line -->
-  <p>
+  <p align="justify">
     A graduate of Computer Engineering from Amirkabir University of Technology, specializing in artificial intelligence (AI) with a deep focus on foundation models, large language models (LLMs), and natural language processing (NLP). With hands-on experience in developing conversational AI systems and designing dialogue state tracking using models like BERT, RoBERTa, T5, BLOOM, and GPT, the work focuses on advancing AI-driven technologies to create smarter, more efficient systems.
   </p>
 
