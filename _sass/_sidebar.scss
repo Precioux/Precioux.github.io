@@ -69,28 +69,29 @@
    Author profile and links
    ========================================================================== */
 
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 100px;
- // height: 36px;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-
-  img {
-    max-width: 210px;
-    border-radius: 50%;
-
+   .author__avatar {
+    display: table-cell;
+    vertical-align: top;
+    width: 150px;  /* Increased size */
+    height: 150px; /* Make height equal to width for a perfect circle */
+  
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      display: block;
+      width: auto;
+      height: auto;
+    }
+  
+    img {
+      max-width: 100%;  /* Ensures the image fills the container */
+      border-radius: 50%;  /* This makes the image circular */
+  
+      @include breakpoint($large) {
+        padding: 5px;
+        border: 1px solid $border-color;
+      }
     }
   }
-}
+  
 
 .author__content {
   display: table-cell;
