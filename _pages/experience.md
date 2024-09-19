@@ -4,9 +4,7 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
-
-## Experience
-
+  <hr> <!-- This will create a line -->
 - ### Research Assistant — Natural Language Processing Lab at AUT
   *July 2023 – Present*  
   - Worked under the supervision of Dr. Saeedeh Momtazi.
@@ -26,4 +24,3 @@ author_profile: true
 
 ---
 
-This section highlights key roles, responsibilities, and the technical skills you developed. Let me know if you need further adjustments or additional details!
