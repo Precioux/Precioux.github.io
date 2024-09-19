@@ -1,12 +1,18 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+<hr>
+You can find detailed information about my academic background, professional experience, skills, and projects in my full CV. 
 
-{% include base_path %}
+Feel free to download it using the link below:
 
-You can access [My CV](https://github.com/Precioux/Precioux.github.io/blob/master/files/SaminMahdipour_CV.pdf) here!
+- [**Download My CV**](https://github.com/Precioux/Precioux.github.io/blob/master/files/SaminMahdipour_CV.pdf) (PDF)
+
+For any inquiries or collaboration opportunities, don't hesitate to contact me through the provided channels.
+
+---

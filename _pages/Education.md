@@ -4,7 +4,7 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
-
+<hr>
 - ### Amirkabir University of Technology (Tehran Polytechnic)
   **Bachelor of Science in Computer Engineering**  
   *February 2020 – August 2024*  
