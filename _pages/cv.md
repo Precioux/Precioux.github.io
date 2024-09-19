@@ -9,7 +9,7 @@ redirect_from:
 <hr>
 You can find detailed information about my academic background, professional experience, skills, and projects in my full CV. 
 
-- [**My CV**](https://github.com/Precioux/Precioux.github.io/tree/master/files#:~:text=SaminMahdipour%2DCV.pdf) (PDF)
+- [**My CV**](https://github.com/Precioux/Precioux.github.io/blob/master/files/SaminMahdipour-CV.pdf) (PDF)
 
 For any inquiries or collaboration opportunities, don't hesitate to contact me through the provided channels.
 
