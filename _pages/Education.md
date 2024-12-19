@@ -7,7 +7,7 @@ author_profile: true
 <hr>
 - ### Université de Montréal
   **Master of Science in Computer Science**  
-  *February 2020 – August 2024*  
+  *Jan 2025 – Present*  
   - **Specialization:** Artificial Intelligence 
 
 - ### Amirkabir University of Technology (Tehran Polytechnic)
