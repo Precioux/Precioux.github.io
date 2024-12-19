@@ -7,6 +7,14 @@ redirect_from:
   - /projects
 ---
 <hr>
+### Fall 2024
+
+- **The Inattentive Interview: An LLM-Assisted Clinical Transcript Generation and Analysis** 
+  Gemini was instructed to transcribe, analyze and generate conversations for a therapy session focused on ADHD.
+  [Code](https://github.com/Precioux/The-Inattentive-Interview-An-LLM-Assisted-Clinical-Transcript-Generation-and-Analysis)
+
+- **A Machine Learning Approach for Diagnosis and Classification of Periodontitis** 
+  Applied machine learning to classify and diagnose periodontitis using clinical data.
 
 ### Summer 2024
 
